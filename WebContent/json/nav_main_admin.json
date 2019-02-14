@@ -1,0 +1,53 @@
+{
+  "data": [
+
+ {
+      "text": "20楼",
+      "icon": "&#xe620;",
+      "subset": [
+    	  {
+          "text": "新版物资管理",
+          "icon": "&#xe621;",
+          "href": "project/mainWz/mainWz.jsp"
+        },
+       
+        
+        {
+          "text": "物资使用记录",
+          "icon": "&#xe621;",
+          "href": "project/MaterialUseRecord/MaterialUseRecord.jsp"
+        }
+      ]
+    },
+   
+   
+   {                                                                                                                                                                                                        
+      "text": "系统功能",
+      "icon": "&#xe620;",
+      "subset": [
+        {
+          "text": "日志查看",
+          "icon": "&#xe621;",
+          "href": "project/log/log.jsp"
+        },
+      
+         {
+          "text": "账号管理",
+          "icon": "&#xe621;",
+          "href": "project/user/user.jsp"
+        },
+         {
+          "text": "物资数据字典",
+          "icon": "&#xe621;",
+          "href": "project/dictionary/dictionary.jsp"
+        },
+        {
+          "text": "人员管理",
+          "icon": "&#xe621;",
+          "href": "project/member/member.jsp"
+        }
+       
+      ]
+    }
+  ]
+}
